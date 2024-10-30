@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+# 💫 Hi 👋, I'm Ahmed
+
 <h3 align="center">Android Developer </h3>
 
 🔭 I’m currently developing an application called Stylish, where I’m implementing the MVVM architecture and integrating a variety of functionalities to enhance user experience. This project is a solo endeavor, and I'm excited about the features I'm bringing to life!<br>
