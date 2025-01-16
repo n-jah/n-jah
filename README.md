@@ -2,8 +2,6 @@
 
 <h3 align="center">Android Developer </h3>
 
-🔭 I’m currently developing an application called Stylish, where I’m implementing the MVVM architecture and integrating a variety of functionalities to enhance user experience. This project is a solo endeavor, and I'm excited about the features I'm bringing to life!<br>
-<br>
 🌱 I’m constantly learning new technologies in Android Development 📱<br>
 💻 Explore my projects at [my portfolio](https://beacons.ai/nj7)<br>
 📫 Feel free to reach me at [be-ngah@outlook.com](mailto:be-ngah@outlook.com)<br>
